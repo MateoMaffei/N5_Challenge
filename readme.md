@@ -9,6 +9,7 @@ Para ejecutar el siguiente paso necesitamos que docket este corriendo localmente
 
 Una vez abierta la terminal y con docker ejecutandose, escribimos en la terminal el siguiente comando:
 
+    docker-compose build
     docker-compose up -d
 
 Una vez ejecutado tendremos distintos servicios ejecutandose localmente en los cuales podremos encontrar:
